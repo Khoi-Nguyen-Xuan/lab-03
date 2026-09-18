@@ -6,7 +6,7 @@
 - **CCID:** `xuankhoi`
 
 ## References and Resources
-N/A
+CMPUT 301 Lab 3 instructions and course materials.
 
 ## Verbal Collaboration
-N/A
+None
